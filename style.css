@@ -27,3 +27,12 @@ button{
     width: 85px;
     background-color:rgb(156, 156, 156) ;
 }
+.numberInput{
+    width: 50px;
+    background-color: rgb(125, 125, 125) ;
+    outline-color: black;
+}
+.textInput{
+    background-color: rgb(125, 125, 125) ;
+    outline-color: black;
+}
